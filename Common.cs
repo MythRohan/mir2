@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 using C = ClientPackets;
 using S = ServerPackets;
 using System.Linq;
-
+//Test
 public enum BlendMode : sbyte
 {
     NONE = -1,
